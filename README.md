@@ -1,7 +1,5 @@
 > [!WARNING]
-> This repository is currently abandoned as we are working on a rewrite. Due to us starting the rewrite
-> overlapping with a bunch of big changes in our lives, we currently can't guarantee any release date.
-> All important updates will be on [Discord](https://discord.gg/gNgaxZa4yX).
+> This repository is currently owned by nutty studios
 
 <p align="center"><img src="https://raw.githubusercontent.com/y2k04/MCVmComputers/master/src/main/resources/assets/mcvmcomputers/icon.png" height="320"></p>
 
